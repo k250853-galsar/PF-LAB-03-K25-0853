@@ -5,7 +5,7 @@ Let's do some changings in it.
 
 **Hello World**
 <br/>
-_He is come for which you are waiting!_
+_He has come for which you are waiting!_
 <br/>
 
 ### My hobbies:
