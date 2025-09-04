@@ -7,7 +7,8 @@ I'm Tushar Kumar and I'm 18. My programming background starts from when I was 13
 _It's a lovely day today_
 <br/>
 
-- Programming Languages
+### Let's list some programming languages:
+<br/>
 - C language
 - C++ language
 - Java
@@ -15,3 +16,9 @@ _It's a lovely day today_
 - HTML
 - CSS
 - Javascript
+
+### List of richest people's 
+1. Elon Musk
+2. Mark zuckerberg
+3. Jeff Bezos
+4. Larry Ellison
