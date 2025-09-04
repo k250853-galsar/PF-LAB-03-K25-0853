@@ -5,3 +5,13 @@ I'm Tushar Kumar and I'm 18. My programming background starts from when I was 13
 **Hey There!**
 <br/>
 _It's a lovely day today_
+<br/>
+
+- Programming Languages
+- C language
+- C++ language
+- Java
+- Python
+- HTML
+- CSS
+- Javascript
